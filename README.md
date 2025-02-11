@@ -27,6 +27,8 @@ The workflow includes:
 4. **Predictions & Submission:**
    - Generating predictions on the test dataset.
    - Preparing submission files for Kaggle.
+5. **Final Accuracy:**
+![image](https://github.com/user-attachments/assets/abd37031-a3aa-4f2e-ae8f-dd7cf7dd625d)
 
 ## Dependencies
 The project requires the following libraries:
